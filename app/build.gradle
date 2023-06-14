@@ -28,7 +28,7 @@ android {
     compileSdkVersion rootProject.ext.CompileSdk
 
     defaultConfig {
-        applicationId 'com.candybar.dev'
+        applicationId 'com.thevirustech.livelyblue'
         minSdkVersion rootProject.ext.MinSdk
         targetSdkVersion rootProject.ext.TargetSdk
         versionCode rootProject.ext.VersionCode * 10 + 0

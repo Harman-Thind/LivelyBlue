@@ -2,7 +2,7 @@
 <resources>
 
     <!-- Leave empty if you don't want to show changelog date -->
-    <string name="changelog_date" translatable="false">May 22, 2022</string>
+    <string name="changelog_date" translatable="false">July 22, 2022</string>
 
     <!-- Changelog support html formatting
     * <b> for Bold
@@ -10,8 +10,8 @@
     * <u> for Underline
     * <a href="linkUrl">Link Text</a> for links -->
     <string-array name="changelog">
-        <item>Fixed wrong icon getting selected in icon requests</item>
-        <item>Updated translations</item>
+        <item><b>It is only to post icon requests</b></item>
+        <item>Please request all the icons you want</item>
     </string-array>
 
 </resources>

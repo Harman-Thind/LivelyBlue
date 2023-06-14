@@ -18,13 +18,12 @@
     <string name="kustom_pack_description">Cool Kustom presets</string>
 
     <!-- CONFIG: HOME -->
-    <string name="home_title">CandyBar</string>
+    <string name="home_title">Lively Blue</string>
     <string name="home_image">home_image</string>
     <string name="home_image_style">card_landscape</string>
     <string name="home_description">
         <![CDATA[
-        CandyBar is an <b>Android Icon Pack Dashboard</b>. It has <i>many features</i>. Backed by the <u>community</u>.
-        Get it from <a href="https://github.com/zixpo/candybar">GitHub</a>.
+        Lively Blue is an icon pack project based on the latest android 12 material you theming.
         ]]>
     </string>
     <string name="rate_and_review_link">https://play.google.com/store/apps/details?id={{packageName}}</string>
@@ -35,7 +34,7 @@
 
     <!-- CONFIG: NAVIGATION VIEW HEADER -->
     <string name="navigation_view_header">nav_head</string>
-    <string name="navigation_view_header_title">CandyBar</string>
+    <string name="navigation_view_header_title">Lively Blue</string>
     <bool name="enable_apply">true</bool>
 
     <!-- CONFIG: ICONS -->
@@ -55,7 +54,7 @@
     <bool name="hide_missing_app_count">false</bool>
     <string name="regular_request_method">email</string>
     <string name="premium_request_method"></string>
-    <string name="regular_request_email">sarsamurmu05@gmail.com</string>
+    <string name="regular_request_email">virusplayz2022@gmail.com</string>
     <string name="premium_request_email"></string>
     <string name="regular_request_email_subject"></string>
     <string name="premium_request_email_subject"></string>
@@ -74,8 +73,7 @@
     <string name="about_title">CandyBar \nMaterial Dashboard</string>
     <string name="about_desc">
         <![CDATA[
-        CandyBar is an <b>Android Icon Pack Dashboard</b>. It has <i>many features</i>. Backed by the <u>community</u>.
-        Get it from <a href="https://github.com/zixpo/candybar">GitHub</a>.
+        Lively Blue is an icon pack project based on the latest android 12 material you theming.
         ]]>
     </string>
     <string-array name="about_social_links">
